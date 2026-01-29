@@ -5,6 +5,11 @@ Phishing emails are fraudulent messages designed to trick users into revealing s
 
 The implementation is based on academic research and evaluates **six different ML algorithms** on real-world datasets to compare accuracy, precision, recall, and computational efficiency.
 
+### Dataset
+
+This project uses publicly available phishing and spam email datasets commonly used in academic research.
+Due to size limitations, the datasets are not included in this repository.
+
 ### Features
 
 * Comprehensive text preprocessing pipeline
