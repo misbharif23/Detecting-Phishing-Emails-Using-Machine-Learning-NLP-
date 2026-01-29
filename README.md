@@ -66,7 +66,7 @@ The following algorithms were evaluated:
 ## ▶️ How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/phishing-email-detection.git
+git clone https://github.com/your-username/phishing-email-detection.git](https://github.com/misbharif23/Detecting-Phishing-Emails-Using-Machine-Learning-NLP-.git
 ````
 
 2. Navigate to the project directory:
